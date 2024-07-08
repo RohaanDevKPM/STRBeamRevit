@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "STRBeam.Revit.SharedProject", "STRBeam.Revit.SharedProject\STRBeam.Revit.SharedProject.shproj", "{AEAE8081-F669-4974-A21A-F88E8AA1A3A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STRBeam.Revit.2023", "STRBeam.Revit.2023\STRBeam.Revit.2023.csproj", "{E775ECC2-44D5-42D4-82AC-CF682FFC3010}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E775ECC2-44D5-42D4-82AC-CF682FFC3010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E775ECC2-44D5-42D4-82AC-CF682FFC3010}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E775ECC2-44D5-42D4-82AC-CF682FFC3010}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E775ECC2-44D5-42D4-82AC-CF682FFC3010}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99FE7607-1EC5-478A-A715-153D76869001}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		STRBeam.Revit.SharedProject\STRBeam.Revit.SharedProject.projitems*{aeae8081-f669-4974-a21a-f88e8aa1a3a8}*SharedItemsImports = 13
+		STRBeam.Revit.SharedProject\STRBeam.Revit.SharedProject.projitems*{e775ecc2-44d5-42d4-82ac-cf682ffc3010}*SharedItemsImports = 4
+	EndGlobalSection
+EndGlobal

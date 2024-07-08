@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>STRBeam</Name>
+		<Assembly>STRBeam\STRBeam.Revit.2023.dll</Assembly>
+		<FullClassName>STRBeam.Revit.AppCommand</FullClassName>
+		<AddInId>7594FDD8-250A-42A3-8A39-257779902654</AddInId>
+		<VendorId>Krishna Joshi</VendorId>
+		<VendorDescription>https://github.com/KrishnaJoshi-BIM</VendorDescription>
+	</AddIn>
+</RevitAddIns>
