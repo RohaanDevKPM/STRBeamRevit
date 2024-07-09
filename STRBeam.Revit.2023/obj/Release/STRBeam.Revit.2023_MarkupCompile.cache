@@ -4,11 +4,11 @@
 library
 C#
 .cs
-C:\Users\Admin\source\repos\TrySTRBeam\STRBeamRevit\STRBeam.Revit.2023\obj\Debug\
+C:\Users\Admin\source\repos\TrySTRBeam\STRBeamRevit\STRBeam.Revit.2023\obj\Release\
 STRBeam.Revit
 none
 false
-DEBUG;TRACE
+TRACE
 
 91810705646
 
